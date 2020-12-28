@@ -4,7 +4,7 @@
 int main() {
 
 
-	std::cout << "TEST" << std::endl;
+	std::cout << "TEST_new" << std::endl;
 
 
 	return 0;
